@@ -4,6 +4,22 @@ title: About Me
 permalink: /about/
 ---
 
+## 학력
+'-' 
+
+## 프로젝트
+
+
+## 수상
+
+
+## 사용 가능 툴
+
+
+## 
+
+
+
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
